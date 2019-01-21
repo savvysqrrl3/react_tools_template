@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "April Cound",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savvysqrrl3/react_tools_template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/savvysqrrl3/react_tools_template/issues"
+  },
+  "homepage": "https://github.com/savvysqrrl3/react_tools_template#readme"
 }
